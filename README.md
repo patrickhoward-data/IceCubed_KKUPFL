@@ -20,7 +20,6 @@ To compute the Ice^3 value for a player:
 3.	Divide by the player's Time On Ice (TOI).
 Mathematically:
 
-![image](https://github.com/patrickhoward-data/IceCubed_KKUPFL/assets/104926142/1e20e153-8795-4357-8a10-e1284a8ac32e)
 
  
 Data Representation in Database
