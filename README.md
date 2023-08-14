@@ -24,7 +24,8 @@ Mathematically:
 
  
 Data Representation in Database
-Data is stored in a SQL Server table named _skaters_2023 with the following columns: The original table came from HockeyRference.com. I made a custom table using the POINTS column to filter. I imported that table into SQL Server. I used a couple of SELECT statement to refine the table. I filtered on TOI to the league average and it cut the table from over 900 row to 487. From there we used SQL satements to add the ICECubed column and provided the proper calculation. The final result is listed as a CSV file. Ice^3_results_KKUPFL
+Data is stored in a SQL Server table named _skaters_2023 with the following columns: The original table came from HockeyRference.com. I made a custom table using the POINTS column to filter. I imported that table into SQL Server. I used a couple of SELECT statement to refine the table. I filtered on TOI to the league average and it cut the table from over 900 row to 487. 
+We used SQL satements to add the ICECubed column and provided the proper calculation. The final result is listed as a CSV file. Ice^3_results_KKUPFL
 
 •	Player: Name of the player.
 •	TOI: Time On Ice in minutes.
