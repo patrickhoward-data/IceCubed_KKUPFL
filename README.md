@@ -18,7 +18,7 @@ To compute the Ice^3 value for a player:
 1.	Multiply each component by its respective weight.
 2.	Sum up these weighted values.
 3.	Divide by the player's Time On Ice (TOI).
-Mathematically:
+
 
 ![image](https://github.com/patrickhoward-data/IceCubed_KKUPFL/assets/104926142/5b6e0f0f-571e-4c78-8cb4-04fd93ad0155)
 
